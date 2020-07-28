@@ -1,0 +1,46 @@
+.container{
+    height:200px;
+    width:400px;
+    border-radius: 10px;
+    border: 2px solid #F2A69E;
+    margin:auto;
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;  
+}
+
+.title{
+    color:orangered;
+    text-align:center;
+}
+
+.box{
+    height:30px;
+    width:250px;
+    border-radius: 5px;
+    border: 2px solid #F2A69E;
+    margin-left:80px;
+}
+
+.button{
+    background-color:orangered;
+    border-radius:25px;
+    border:none;
+    color: white;
+    padding: 10px 25px;
+    text-align: center;
+    font-size: 16px;
+    margin-left: 150px;
+    margin-top: 25px;
+
+}
+
+img { 
+  position: fixed;
+  top: 400px;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  opacity: 0.1;
+  }
